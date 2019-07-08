@@ -1,0 +1,4 @@
+#Mon Mar 25 22:04:16 EDT 2019
+base.0=C\:\\UB\\Sem2\\CSE586 - DS\\assignment3\\SimpleDht\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
